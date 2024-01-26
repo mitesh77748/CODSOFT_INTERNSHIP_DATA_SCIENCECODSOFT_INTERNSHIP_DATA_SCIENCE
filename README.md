@@ -10,6 +10,7 @@ about individual passengers, such as their age, gender, ticket
 class, fare, cabin, and whether or not they survived.
 
 #TASK 2 - MOVIE RATING PREDICTION WITH PYTHON
+
 Build a model that predicts the rating of a movie based on
 features like genre, director, and actors. You can use regression
 techniques to tackle this problem.
